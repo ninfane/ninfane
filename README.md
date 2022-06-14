@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ninfane, you can call me nin, nyn, chapu or marina (my real name)
-- 👀 I’m interested in responsive web design, making every day tasks easier with apps 
-- 🌱 I’m currently working as a junir frontend developer, learning NEXTjs and Typescript
+- 👋 Hi, I’m @ninfane, you can call me nin/nyn, chapu or marina (my real name). My pronouns are she/her. 
+- 👀 I’m interested in responsive web design, making every day tasks easier with apps.
+- 🌱 I’m currently working as a junir frontend developer, learning NEXTjs and Typescript.
 - 📫 You can reach me on my linkedin! https://www.linkedin.com/in/marina-crespo/
 
 <!---
